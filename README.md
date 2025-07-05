@@ -1,4 +1,4 @@
-# 📚 Library Management API
+# 📚 Mini Library Server
 
 A RESTful Library Management API for managing books and borrowing records in a library system. Built with **Node.js**, **Express**, **TypeScript**, **MongoDB**, **Mongoose**, and **Zod** for robust validation and modular code architecture.
 
@@ -71,7 +71,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nusrat-xahan05/Library-Management-API.git
+git clone https://github.com/nusrat-xahan05/Mini-Library-Server
 cd Library-Management-API
 npm install
 ```
@@ -135,7 +135,5 @@ Error:
 }
 
 ---
-
-# Live Link: https://library-management-api-github-beige.vercel.app
 
 
